@@ -2,7 +2,7 @@ import profileImg from './assets/profile.png'
 
 const user = {
     name: 'Austin Orphan',
-    imageSize: 100,
+    imageSize: 200,
 };
 
 export default function Profile() {
@@ -10,7 +10,7 @@ export default function Profile() {
         <>
             <header>
                 <h1>{user.name}</h1>
-                <p>Lead Web Developer</p>
+                <h2>Lead Web Developer</h2>
                 <img
                     className="avatar"
                     src={profileImg}

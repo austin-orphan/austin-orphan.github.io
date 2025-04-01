@@ -29,23 +29,7 @@ function App() {
                     <ul>
                         <li><a href="mailto:austin.orphan1@gmail.com">Email</a></li>
                         <li><a href="https://github.com/austin-orphan">GitHub</a></li>
-                    </ul>
-                </div>
-
-                {/* Add your DSA Cheat Sheet */}
-                <div className="section" id="dsa-cheatsheet">
-                    <h2>DSA Cheat Sheet</h2>
-                    <h3>Data Structures</h3>
-                    <ul>
-                        <li><strong>Array:</strong> O(1) access, O(n) insert/delete</li>
-                        <li><strong>Linked List:</strong> O(1) insert/delete at known position</li>
-                        <li><strong>Stack:</strong> LIFO, O(1) push/pop</li>
-                        <li><strong>Queue:</strong> FIFO, O(1) enqueue/dequeue</li>
-                    </ul>
-                    <h3>Algorithms</h3>
-                    <ul>
-                        <li><strong>Quick Sort:</strong> O(n log n) average</li>
-                        <li><strong>Binary Search:</strong> O(log n), sorted data</li>
+                        <li><a href="https://linkedin.com/in/austin-orphan">LinkedIn</a></li>
                     </ul>
                 </div>
             </div>

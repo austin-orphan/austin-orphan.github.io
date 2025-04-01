@@ -36,6 +36,7 @@ nav {
         }
 
 .avatar {
+    border: 2px solid #222;
     border-radius: 50%;
 }
 
