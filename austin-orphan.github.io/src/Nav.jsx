@@ -3,8 +3,8 @@ function Nav() {
         <nav>
             <a href="#home">Home</a>
             <a href="#about">About</a>
-            <a href="#projects">Projects</a>
-            <a href="#contact">Contact</a>
+            <a href="#projects">Data Structures & Algorithms - Cheat Sheet</a>
+            <a href="#contact">Lean Software Development</a>
         </nav>
     );
 }
