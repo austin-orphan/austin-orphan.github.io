@@ -59,6 +59,12 @@ h2 {
     margin-bottom: 0.5rem;
 }
 
+ul {
+    text-align: center; /* Centers the text and bullet */
+    list-style-position: inside; /* Places the bullet inside the text block */
+    padding: 0; /* Removes default padding */
+}
+
 footer {
     padding: 1rem 0;
     text-align: center;
