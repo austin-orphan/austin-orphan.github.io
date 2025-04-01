@@ -1,11 +1,11 @@
-import profileImg from './assets/profile.png'
+import profileImg from '../assets/profile.png'
 
 const user = {
     name: 'Austin Orphan',
     imageSize: 200,
 };
 
-export default function Profile() {
+export default function Header() {
     return (
         <>
             <header>
