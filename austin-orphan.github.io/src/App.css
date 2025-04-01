@@ -65,11 +65,6 @@ h2 {
     margin-bottom: 0.5rem;
 }
 
-h3 {
-    color: #444;
-    margin-bottom: 0.25rem;
-}
-
 ul {
     text-align: center; /* Centers the text and bullet */
     list-style-position: inside; /* Places the bullet inside the text block */
