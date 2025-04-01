@@ -42,6 +42,8 @@ jobs:
       - name: Build
         working-directory: ./austin-orphan.github.io
         run: npm run build
+      - name: Create 404.html Fallback
+        run: cp austin-orphan.github.io/dist/index.html austin-orphan.github.io/dist/404.html
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
