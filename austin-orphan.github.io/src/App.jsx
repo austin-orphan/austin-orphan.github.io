@@ -6,6 +6,7 @@ import Home from './components/Home';
 import About from './components/About';
 import DSA from './components/DSA';
 import LSD from './components/LSD';
+import RecommendedReads from './components/RecommendedReads';
 import './App.css';
 
 function App() {
@@ -19,19 +20,23 @@ function App() {
                 <NavLink to="/about" className={({ isActive }) => (isActive ? 'active' : '')}>
                     About
                 </NavLink>
-                <NavLink to="/dsa" className={({ isActive }) => (isActive ? 'active' : '')}>
+                <NavLink to="/dsa-cheatsheet" className={({ isActive }) => (isActive ? 'active' : '')}>
                     DSA Cheat Sheet
                 </NavLink>
-                <NavLink to="/lsd" className={({ isActive }) => (isActive ? 'active' : '')}>
+                <NavLink to="/lean-software" className={({ isActive }) => (isActive ? 'active' : '')}>
                     Lean Software Development
+                </NavLink>
+                <NavLink to="/recommended-reads" className={({ isActive }) => (isActive ? 'active' : '')}>
+                    Recommended Reads
                 </NavLink>
             </nav>
             <div className="main-content">
                 <Routes>
                     <Route path="/" element={<Home />} />
                     <Route path="/about" element={<About />} />
-                    <Route path="/dsa" element={<DSA />} />
-                    <Route path="/lsd" element={<LSD /> } />
+                    <Route path="/dsa-cheatsheet" element={<DSA />} />
+                    <Route path="/lean-software" element={<LSD />} />
+                    <Route path="/recommended-reads" element={<RecommendedReads />} />
                     <Route path="*" element={<h2>404 - Page Not Found</h2>} />
                 </Routes>
             </div>

@@ -2,7 +2,7 @@ export default function LSD() {
     return (
         <>
             <div className="section" id="lean-software">
-                <h2>Lean Software Development</h2>
+                <h2>Lean Software Development (LSD)</h2>
                 <p>A methodology to deliver value efficiently by minimizing waste.</p>
             </div>
             <div className="section" id="lean-principles">

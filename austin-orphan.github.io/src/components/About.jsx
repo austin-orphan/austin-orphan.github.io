@@ -12,16 +12,16 @@
             <div className="section" id="skills">
                 <h2>Skills and Technologies</h2>
                 <ul>
-                    <li>💻 Languages: C#, SQL, JavaScript, Python, Java</li>
-                    <li>🌐 Libraries & Frameworks: .NET Core, Vue.js, React, Spring Boot</li>
-                    <li>🛠️ Tools & Cloud: SQL Server, Azure, GitHub Actions, Docker</li>
+                    <li>💻 <strong>Languages:</strong> C#, SQL, JavaScript, Python, Java</li>
+                    <li>🌐 <strong>Libraries & Frameworks:</strong> .NET Core, Vue.js, React, Spring Boot</li>
+                    <li>🛠️ <strong>Tools & Cloud:</strong> SQL Server, Azure, GitHub Actions, Docker</li>
                 </ul>
             </div>
             <div className="section" id="interests">
                 <h2>Interests</h2>
                 <ul>
-                    <li>Full-time: programmer, dad, husband, masters student</li>
-                    <li>Part-time: athlete, gamer, investor, grill master</li>
+                    <li><strong>Full-time:</strong> programmer, dad, husband, masters student</li>
+                    <li><strong>Part-time:</strong> athlete, gamer, investor, grill master</li>
                 </ul>
             </div>
         </>
