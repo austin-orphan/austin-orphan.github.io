@@ -12,7 +12,7 @@ export default function Reads() {
             <div className="section" id="personal-dev">
                 <h2>Personal Development</h2>
                 <ul>
-                    <li><i><strong>The Slight Edge:</strong> Turning Simple Disciplines into Massive Success and Happiness</i> - Jeff Olson, John David Mann</li>
+                    <li><i><strong>The Slight Edge:</strong> Turning Simple Disciplines into Massive Success and Happiness</i> - Jeff Olson</li>
                     <li><i><strong>Deep Work:</strong> Rules for Focused Success in a Distracted World</i> - Cal Newport</li>
                     <li><i><strong>Atomic Habits:</strong> An Easy & Proven Way to Build Good Habits & Break Bad Ones</i> - James Clear</li>
                     <li><i><strong>Talent Is Overrated:</strong> What Really Separates World-Class Performers from Everybody Else</i> - Geoff Colvin</li>
