@@ -6,5 +6,6 @@ export default defineConfig({
     plugins: [plugin()],
     server: {
         port: 59123,
-    }
+    },
+    base: '/'
 })
