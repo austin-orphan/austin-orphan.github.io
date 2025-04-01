@@ -22,7 +22,7 @@ export default function Reads() {
                 <h2>Personal Finance</h2>
                 <ul>
                     <li><i><strong>I Will Teach You to Be Rich:</strong> No Guilt. No Excuses. Just a 6-Week Program That Works</i> - Ramit Sethi</li>
-                    <li><i><strong>Thing and Grow Rich</strong></i> - Napoleon Hill</li>
+                    <li><i><strong>Think and Grow Rich</strong></i> - Napoleon Hill</li>
                 </ul>
             </div>
         </>
