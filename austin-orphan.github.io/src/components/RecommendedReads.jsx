@@ -19,7 +19,7 @@ export default function Reads() {
                 </ul>
             </div>
             <div className="section" id="personal-finance">
-                <h2>Software Development</h2>
+                <h2>Personal Finance</h2>
                 <ul>
                     <li><i><strong>I Will Teach You to Be Rich:</strong> No Guilt. No Excuses. Just a 6-Week Program That Works</i> - Ramit Sethi</li>
                     <li><i><strong>Thing and Grow Rich</strong></i> - Napoleon Hill</li>
