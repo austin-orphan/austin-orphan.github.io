@@ -25,6 +25,12 @@ nav {
     text-align: center;
 }
 
+    nav .active {
+        color: #003366;
+        font-weight: bold;
+        text-decoration: underline;
+    }
+
     nav a {
         margin: 0 1rem;
         text-decoration: none;
@@ -57,6 +63,11 @@ h1 {
 h2 {
     color: #444;
     margin-bottom: 0.5rem;
+}
+
+h3 {
+    color: #444;
+    margin-bottom: 0.25rem;
 }
 
 ul {
