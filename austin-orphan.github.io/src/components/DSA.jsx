@@ -33,6 +33,8 @@
                     <li><strong>Two Pointers:</strong> Fast/slow, sliding window</li>
                     <li><strong>Dynamic Programming:</strong> Memoization, tabulation</li>
                     <li><strong>Backtracking:</strong> Explore all possibilities</li>
+                    <li><strong>Greedy:</strong> Local optimum, activity selection</li>
+                    <li><strong>Divide and Conquer:</strong> Split problems, merge sort</li>
                 </ul>
             </div>
         </>
